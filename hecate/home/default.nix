@@ -20,6 +20,7 @@ deps:
         ./zathura
         ./direnv
         ./rofi
+        ./polybar
       ];
 
       home = {
